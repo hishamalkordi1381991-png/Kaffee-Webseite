@@ -16,7 +16,7 @@ header {
             #030200 0%,
             transparent 15%,
             transparent 85%,
-            #030200 100% ), url("bilder/background.jpg");
+            #030200 100% ), url("background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
